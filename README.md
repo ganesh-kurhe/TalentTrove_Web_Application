@@ -61,3 +61,8 @@ Follow these steps to set up the project locally:
    git clone https://github.com/ganesh-kurhe/TalentTrove.git
    cd TalentTrove
 
+2.**Install dependencies**
+```bash
+npm install
+
+
