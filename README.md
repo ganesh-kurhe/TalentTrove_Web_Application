@@ -79,6 +79,12 @@ Follow these steps to set up the project locally:
    ```bash
    npm start
 
+
+## 🌐 Live Demo
+
+Check out the live version of TalentTrove here:  
+👉 [TalentTrove Job Portal](https://talenttrove-web-application.onrender.com)
+
  
 
 
