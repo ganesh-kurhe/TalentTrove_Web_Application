@@ -61,8 +61,19 @@ Follow these steps to set up the project locally:
    git clone https://github.com/ganesh-kurhe/TalentTrove.git
    cd TalentTrove
 
-2.**Install dependencies**
-```bash
-npm install
+2. **Install dependencies**
+   ```bash
+   npm install
+
+3. **Set up environment variables**
+   Create a .env file in the root directory and add the following:
+   ```bash
+   MONGO_URI=your_database_uri
+   PORT=5000 
+   SECRET_KEY=your_secret_key
+   CLOUD_NAME=your_cloud_name
+   API_KEY=your_api_key
+   API_SECRET=your_api_secret
+ 
 
 
