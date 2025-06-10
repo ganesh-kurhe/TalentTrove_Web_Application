@@ -74,6 +74,11 @@ Follow these steps to set up the project locally:
    CLOUD_NAME=your_cloud_name
    API_KEY=your_api_key
    API_SECRET=your_api_secret
+
+4. **Run the application**
+   ```bash
+   npm start
+
  
 
 
