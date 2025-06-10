@@ -13,7 +13,7 @@ const category = [
     "FullStack Developer"
 ]
 
-const CategoryCarousel = () => {
+const Categorycarousel = () => {
     const dispatch = useDispatch();
     const navigate = useNavigate();
     const searchJobHandler = (query) => {
@@ -40,4 +40,4 @@ const CategoryCarousel = () => {
     )
 }
 
-export default CategoryCarousel
+export default Categorycarousel
